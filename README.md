@@ -11,6 +11,5 @@ A quick and simple panel to manage Dynamic Paint settings in the 3D viewport.
 
 
 
-
-https://github.com/user-attachments/assets/ceb9224a-3041-4201-9425-2d6174f0aa79
+https://github.com/user-attachments/assets/9aacfc33-ecfc-4477-bf79-ca67fbbc4133
 
