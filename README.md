@@ -4,7 +4,7 @@
 
 
 ## **OST-DPaint:** 
-A quick and simple panel to manage Dynamic Paint settings
+A quick and simple panel to manage Dynamic Paint settings in the 3D Viewport
 
 ![image](https://github.com/user-attachments/assets/5539fc92-030e-4b00-91c4-322f66a350bc)
 
